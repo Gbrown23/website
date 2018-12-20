@@ -1,0 +1,105 @@
+/* Darkmegenta */
+  /* margin: 50; */
+
+* {
+  font-size: 100%;
+  margin: 0;
+  line-height: 1;
+  box-sizing: border-box;
+  border: 1px;
+  solid black; */
+}
+
+body {
+  background-image: url(images/christmas.png);
+  background-repeat: repeat;
+  background-color: #dad8d8;
+  font-family: "Palatino Linotype", "Book Antiqua";
+  font-size: 14px;
+  font-style: normal;
+  color: black
+}
+
+header {
+  border-bottom: 1px dotted white;
+  padding: 30px;
+  background-color: #c1a6c1;
+  /* font-size: 36px; */
+  /* box-shadow: 0 0 10px 2px violet; */
+}
+
+.banner {
+  height: 700px;
+  background-image: url(images/piece-of-cake.jpg);
+  background-size:cover;
+  background-position: center;
+}
+
+.title {
+  text-decoration: normal;
+  text-align: center;
+  font-size: 40px;
+}
+
+h1,h2 {
+  font-weight: bold
+  color: violet;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+p, li {
+  line-height: 1.5;
+  font-size: 16px;
+  color: black;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+ul,ol,p {
+  margin-bottom: 15px 0;
+}
+
+h3 {
+  text-align: center;
+  color: black;
+  font-size: 40px;
+}
+
+section,
+footer {
+  border: 1px solid white;
+  background-color: #cca4cc70;
+  margin: 30px;
+  padding: 30px;
+}
+
+a {
+  text-decoration: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  width: 200px;
+  height: 300px;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.Recipe {
+  text-align: center;
+  text-size: 20px;
+}
+
+.box {
+  background-image: url(images/christmas-colour.png);
+  background-repeat: no-repeat;
+}
