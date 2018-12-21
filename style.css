@@ -103,3 +103,14 @@ img {
   background-image: url(images/christmas-colour.png);
   background-repeat: no-repeat;
 }
+
+.center, .hover{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+}
+
+.auto {
+  width: 0
+}
